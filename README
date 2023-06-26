@@ -1,0 +1,23 @@
+Social Media News feed application 
+
+User features:
+- Signup + Login w/ authentication
+- View newsfeed
+- CRUD operations on posts (create, view, edit, delete)
+- Update user status
+
+...
+Technologies:
+- MERN (React, NodeJS, ExpressJS, MongoDB)
+- MVC architecture
+- Routing
+- NoSQL/MongoDB
+- Authentication/Validation
+- Built using GraphQL
+
+Tested: 
+- Websockets w/ socket.io
+- REST APIs
+
+ADDITIONAL NOTES:
+- Insert mongoDB key in 'app.js'
